@@ -1,0 +1,57 @@
+[
+  {
+    "topic": "Topic: Spa Locations",
+    "question": "Question: Do you have multiple spa locations in Mumbai?",
+    "answer": "Answer: Yes, we have three spa locations in Mumbai – Bandra West (Carter Road), Powai (near Hiranandani Gardens), and Colaba (next to Gateway of India)."
+  },
+  {
+    "topic": "Topic: Location Details",
+    "question": "Question: What is the address of your Bandra spa?",
+    "answer": "Answer: Our Bandra spa is located at XYZ Spa, Carter Road, Bandra West, Mumbai – 400050. It is a 5-minute walk from Carter Road promenade."
+  },
+  {
+    "topic": "Topic: Location Details",
+    "question": "Question: What is the address of your Powai spa?",
+    "answer": "Answer: Our Powai spa is at XYZ Spa, Hiranandani Gardens, Powai, Mumbai – 400076, opposite Galleria Mall."
+  },
+  {
+    "topic": "Topic: Location Details",
+    "question": "Question: What is the address of your Colaba spa?",
+    "answer": "Answer: Our Colaba spa is at XYZ Spa, Apollo Bandar, Colaba, Mumbai – 400005, near Gateway of India."
+  },
+  {
+    "topic": "Topic: Booking",
+    "question": "Question: Can I book appointments at any branch?",
+    "answer": "Answer: Yes, you can book appointments at any of our branches. While booking, please mention your preferred location (Bandra, Powai, or Colaba)."
+  },
+  {
+    "topic": "Topic: Transfers",
+    "question": "Question: Can I change my booking location after confirmation?",
+    "answer": "Answer: Yes, if slots are available, you can shift your appointment to another branch by contacting our reception at least 4 hours before your scheduled time."
+  },
+  {
+    "topic": "Topic: Timings",
+    "question": "Question: Are the opening hours the same at all locations?",
+    "answer": "Answer: Yes, all branches are open from 10:00 AM to 9:00 PM daily."
+  },
+  {
+    "topic": "Topic: Packages",
+    "question": "Question: Do you offer location-specific packages?",
+    "answer": "Answer: Our core spa services and prices are the same across all branches. However, each branch occasionally offers special seasonal or festival discounts."
+  },
+  {
+    "topic": "Topic: Spa Services",
+    "question": "Question: What services do you provide?",
+    "answer": "Answer: We offer full-body massages (Swedish, Deep Tissue, Aromatherapy, Balinese), facials, body scrubs, reflexology, head & foot massages, couple treatments, and wellness therapies."
+  },
+  {
+    "topic": "Topic: Spa Services",
+    "question": "Question: Do you have couple or group spa packages?",
+    "answer": "Answer: Yes, we offer couple spa experiences and group packages for friends or family. These can be customized based on your preferred treatments and duration."
+  },
+  {
+    "topic": "Topic: Spa Services",
+    "question": "Question: Do you provide home spa services?",
+    "answer": "Answer: Currently, we provide spa treatments only at our branches. Home service is not available at the moment."
+  }
+]

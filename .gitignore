@@ -1,0 +1,34 @@
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+*.env
+*.pem
+*.key
+.env
+*.env
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs, temp, misc
+*.log
+replacements.txt
+
