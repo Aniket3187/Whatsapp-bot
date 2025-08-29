@@ -87,6 +87,11 @@ def whatsapp_reply():
 def home():
     return "✅ WhatsApp AI Support Agent is running.", 200
 
+# ✅ Health check route
+@app.route("/health")
+def health():
+    return {"status": "ok"}, 200
+
 # 🔁 Start Flask app (start ngrok manually via terminal)
 if __name__ == "__main__":
     print("📲 Starting WhatsApp AI Support Agent...")

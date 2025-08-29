@@ -1,0 +1,9 @@
+# docker-compose.yml
+services:
+  app:
+    build: .
+    container_name: flask-bot
+    env_file: .env
+    ports:
+      - "5000:5000"   # remove later when you put a reverse proxy in front
+    restart: unless-stopped
